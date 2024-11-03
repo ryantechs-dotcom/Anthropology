@@ -237,9 +237,9 @@ function History() {
                     <div className="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
                 </div>
                 <div className="mt-3 sm:pe-8">
-                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Birth of Eugenics</h3>
-                    <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1883</time>
-                    <p className="text-base font-normal text-gray-500 dark:text-gray-400">Galton derives the word eugenics from the greek word eugenes, meaning 'good in birth'.</p>
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Buck V. Bell County</h3>
+                    <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1927</time>
+                    <p className="text-base font-normal text-gray-500 dark:text-gray-400">The Supreme Court Cases to sterlize Buck ended in a 8-1 vote to proceed with the sterlization.</p>
                 </div>
             </li>
             <li className="relative mb-6 sm:mb-0">
@@ -252,9 +252,9 @@ function History() {
                     <div className="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
                 </div>
                 <div className="mt-3 sm:pe-8">
-                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">First Sterlization Law</h3>
-                    <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1907</time>
-                    <p className="text-base font-normal text-gray-500 dark:text-gray-400">Indiana passes the first sterilization law, prompting forced sterlization.</p>
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Eugenics Record Office closes</h3>
+                    <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1939</time>
+                    <p className="text-base font-normal text-gray-500 dark:text-gray-400">People began to see the connection to Nazy Germany and Vannevar Bush, the president of Carnegie cut funding to the office.</p>
                 </div>
             </li>
             <li className="relative mb-6 sm:mb-0">
@@ -267,9 +267,9 @@ function History() {
                     <div className="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
                 </div>
                 <div className="mt-3 sm:pe-8">
-                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">American Eugenics Society is established</h3>
-                    <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1926</time>
-                    <p className="text-base font-normal text-gray-500 dark:text-gray-400">They served the primary purpose to educate people about eugenics.</p>
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Oregon</h3>
+                    <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1983</time>
+                    <p className="text-base font-normal text-gray-500 dark:text-gray-400">Oregon becomes the last state to repal its sterilization law.</p>
                 </div>
             </li>
         </ol>
