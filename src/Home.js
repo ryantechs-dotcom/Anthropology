@@ -20,14 +20,11 @@ function Home() {
         <section className="bg-white shadow-md p-8 rounded-lg items-center">
           <h2 className="text-3xl font-semibold text-gray-800 mb-4">Introduction</h2>
           <p className="text-lg text-gray-600 indent-4 mb-4">
-          The concept of race has invariably been linked with scientific practice, 
-          primarily in the late 19th and early 20th century when eugenics became one of the 
-          reigning doctrines of the time. 
-          Within this was Harry H. Laughlin, superintendent of the ERO-Cold Spring Harbor, New York, 
-          who championed the belief in the betterment of human stock by selective breeding. 
-          His lectures and statistical testimony helped frame the course of landmark legislation, 
-          including the Johnson-Reed Immigration Act of 1924, reflecting his interest in the 
-          biological grounding of race.
+          The subject of this project is the powerful intersection between culture and science, specifically focusing on how early scientific ideas about race were shaped by the cultural, political, and social values of the time. My goal is to understand how cultural beliefs and power dynamics influenced scientific frameworks, especially as they pertained to human difference and racial classifications.
+          </p>
+
+          <p className = "text-lg text-gray-600 indent-4 mb-4">
+          More specifically, I want to know how these early conceptions of race, developed during the colonial and Enlightenment eras, were molded by the agendas of those in power. My main question is this: Were these early ideas of race rooted in objective science, or were they primarily constructed to justify social hierarchies, colonialism, and slavery? By delving into the origins of racial science, I hope to uncover the extent to which culture shaped what were later considered scientific “truths” about human difference. This exploration will allow me to understand how historical conceptions of race have lasting impacts on science and society today.
           </p>
           {/* Image Placeholder */}
           <div className="mt-6">
