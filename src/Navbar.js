@@ -12,11 +12,11 @@ const Navbar = () => {
           <Link to="/" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
             Home
           </Link>
-          <Link to="/History" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
-            Construction of Race
-          </Link>
           <Link to="/Research" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
             Research
+          </Link>
+          <Link to="/History" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
+            Construction of Race
           </Link>
           <Link to="/Racism" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
             Harvard's contribution to Race
@@ -50,11 +50,11 @@ const Navbar = () => {
           <Link to="/" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
             Home
           </Link>
-          <Link to="/History" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
-            Construction of Race
-          </Link>
           <Link to="/Research" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
             Research
+          </Link>
+          <Link to="/History" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
+            Construction of Race
           </Link>
           <Link to="/Racism" className="text-white hover:bg-blue-600 px-3 py-2 rounded">
           Harvard's contribution to Race
